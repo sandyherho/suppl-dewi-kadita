@@ -1,6 +1,7 @@
 # Folders to ignore
 figs/
-raw_data/
+data/
+reports/
 
 # Python artifacts
 __pycache__/
@@ -71,3 +72,4 @@ dmypy.json
 *.pdf
 *.png
 *.eps
+*.txt

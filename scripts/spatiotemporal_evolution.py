@@ -73,7 +73,7 @@ CASE_FISH_COLORS = {
 # Figure settings
 FIG_WIDTH = 18
 FIG_HEIGHT = 22
-DPI = 300
+DPI = 500
 
 # ============================================================================
 # DATA LOADING
