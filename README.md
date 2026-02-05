@@ -1,5 +1,8 @@
 # `dewi-kadita` Analysis Scripts
 
+[![DOI](https://zenodo.org/badge/1149213605.svg)](https://doi.org/10.5281/zenodo.18497168)
+
+
 Supporting scripts for analyzing the four canonical fish schooling scenarios from [`dewi-kadita`](https://github.com/sandyherho/dewi-kadita).
 
 ## Scripts
